@@ -39,9 +39,7 @@ What the discount analysis shows:
 - **Supplies** loses money even at low discounts (average discount 7.7%), so it looks like a cost or pricing problem, not a discount problem.
 - Customer segment (11.5 to 14.0% margin) and ship mode (12.1 to 13.9%) barely matter.
 
-![Profit by sub-category](images/profit_by_subcategory.png)
-![Margin by discount band](images/margin_by_discount_band.png)
-![States with a net loss](images/loss_making_states.png)
+
 
 ## Ideas to test (not proven)
 
@@ -62,7 +60,6 @@ superstore-sales-analysis/
 ├── data/SampleSuperstore.csv
 ├── sql/superstore_analysis.sql
 ├── notebooks/superstore_analysis.ipynb
-├── images/
 ├── requirements.txt
 └── README.md
 ```
